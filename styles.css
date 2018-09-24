@@ -1,190 +1,23 @@
-/* http://meyerweb.com/eric/tools/css/reset/
 
-	   v2.0 | 20110126
-	   License: none (public domain)
-	*/
-	
+body {
+    background-color: rgba(227, 224, 245, 0.979);
+}
 
-	html, body, div, span, applet, object, iframe,
-	h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-	a, abbr, acronym, address, big, cite, code,
-	del, dfn, em, img, ins, kbd, q, s, samp,
-	small, strike, strong, sub, sup, tt, var,
-	b, u, i, center,
-	dl, dt, dd, ol, ul, li,
-	fieldset, form, label, legend,
-	table, caption, tbody, tfoot, thead, tr, th, td,
-	article, aside, canvas, details, embed,
-	figure, figcaption, footer, header, hgroup,
-	menu, nav, output, ruby, section, summary,
-	time, mark, audio, video {
-		margin: 0;
-		padding: 0;
-		border: 0;
-		font-size: 100%;
-		font: inherit;
-		vertical-align: baseline;
-	}
-	/* HTML5 display-role reset for older browsers */
-	article, aside, details, figcaption, figure,
-	footer, header, hgroup, menu, nav, section {
-		display: block;
-	}
-	body {
-		line-height: 1;
-	}
-	ol, ul {
-		list-style: none;
-	}
-	blockquote, q {
-		quotes: none;
-	}
-	blockquote:before, blockquote:after,
-	q:before, q:after {
-		content: '';
-		content: none;
-	}
-	table {
-		border-collapse: collapse;
-		border-spacing: 0;
-	}
-	
-
-	/* -------------------------------------------------------------- */
-	/* -----reset parameters above.  styles for web starts below----- */
-	/* -------------------------------------------------------------- */
-	
-
-	
-
-	.jo_div_size{
-	    width: 50%;
-	}
-	
-
-	
-
-	.junior_div_size{
-	    width: 50%;
-	}
-	
-
-	
-
-	.bri_div_size{
-	    width: 45%;
-	}
-	
-
-	
-
-	.div_text{
-	    color: white;
-	    margin-left: 10px;
-	    margin-top: 10px;
-	    margin-bottom: 10px;
-	    margin-right: 10px;
-	    font-family:palatino;
-	}
-	
-
-	.tree_text{
-	    width: 10%;
-	}
-	#bri, #junior {
-	    border-radius: 0px;
-	    padding: 10px 10px 10px 10px;
-	}
-	
-
-	
-
-	#page_title{
-	    background-color: #b2ad7f;
-	    border-radius: 0px;
-	}
-	
-
-	
-
-	#AMC{
-	    font-style: normal;
-	    font-size: 5vw;
-	    color:   #6b5b95;
-	    padding: 10px 10px 10px 455px;
-	}
-	
-
-	#sub_title{
-	    font-style: normal;
-	    font-size: 2vw;
-	    color:   #6b5b95;
-	    padding: 10px 10px 10px 355px;
-	}
-	
-
-	#jojo{
-	    border-radius: 0px;
-	    padding: 10px 10px 10px 10px;
-	}
-	
-
-	
-
-	#j_name, #j_info, #j_hobby, #bri_info,
-	#bri_name, #bri_hobby, #jr_info,
-	#jr_name, #jr_hobby{
-	    color:   #6b5b95;
-	}
-	
-
-	#bri_tree, #jo_tree, #jr_tree{
-	    color: white;
-	    margin-left: 10px;
-	    border-radius: 0px;
-	
-
-	
-
-	}
-	
-
-	
-
-	body{
-	    background-color: #878f99;
-	}
-	
-
-	
-
-	div {
-	    background: #b2ad7f;
-	    margin-left: 150;
-	    margin-right: 150;
-	}
-	
-
-	
-
-	hr{
-	    color: white;
-	}
-	
-
-	p{
-	    margin-top: 30;
-	    margin-bottom: 30;
-	    margin-left: 0;
-	    margin-right: 30;
-	}
-	
-
-	h1, h2, h3, h4, h5, h6 {
-        size: 75px;
-	    font-family:palatino;
-	    margin-top: 30;
-	    margin-bottom: 30;
-	    margin-left: 0;
-	    margin-right: 30;
-	}
+h1 {
+    color: #101011;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 85px;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 27px;
+}
+#cspt{
+    color:rgb(23, 15, 58);
+    margin-right: 170px;
+    font-size: 59px;
+}
+#coding{
+    image 370px;    
+}
